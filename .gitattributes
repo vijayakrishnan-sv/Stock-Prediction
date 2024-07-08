@@ -1,5 +1,5 @@
 # Example of a `.gitattributes` file which reclassifies `.rb` files as Java:
-*.ipyn linguist-language=Python
+*.ipynb linguist-language=Python
 
 # Replace any whitespace in the language name with hyphens:
 *.glyphs linguist-language=OpenStep-Property-List
